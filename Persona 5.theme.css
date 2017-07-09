@@ -1045,10 +1045,10 @@ span.discriminator {
 }
 .bd-blue .user-popout .header {
     background: #680000 url(https://i.imgur.com/J7E4NxJ.png);
-    background-size: 124%;
+    background-size: 170%;
     background-repeat: no-repeat;
     background-position-y: 0%;
-    background-position-x: 0%;
+    background-position-x: 30%;
 }
 .user-popout .avatar-wrapper .avatar-popout {
     background-color: transparent;
